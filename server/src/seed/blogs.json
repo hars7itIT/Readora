@@ -1,0 +1,15 @@
+[
+  { "url": "https://buzz.blogger.com/feeds/posts/default", "title": "Blogger Buzz", "count": 21 },
+  { "url": "https://news.ycombinator.com/rss", "title": "Hacker News", "count": 28 },
+  { "url": "https://jvns.ca/atom.xml", "title": "Julia Evans", "count": 22 },
+  { "url": "https://css-tricks.com/feed/", "title": "CSS-Tricks", "count": 19 },
+  { "url": "https://www.smashingmagazine.com/feed/", "title": "Smashing Magazine", "count": 18 },
+  { "url": "https://www.theverge.com/rss/index.xml", "title": "The Verge", "count": 25 },
+  { "url": "https://feeds.arstechnica.com/arstechnica/index", "title": "Ars Technica", "count": 23 },
+  { "url": "https://feeds.npr.org/1001/rss.xml", "title": "NPR News", "count": 21 },
+  { "url": "https://www.nasa.gov/feed/", "title": "NASA", "count": 16 },
+  { "url": "https://hacks.mozilla.org/feed/", "title": "Mozilla Hacks", "count": 15 },
+  { "url": "https://github.blog/feed/", "title": "GitHub Blog", "count": 24 },
+  { "url": "https://blog.cloudflare.com/rss/", "title": "Cloudflare Blog", "count": 17 },
+  { "url": "https://newsletter.pragmaticengineer.com/feed", "title": "The Pragmatic Engineer", "count": 20 }
+]

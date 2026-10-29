@@ -1,0 +1,11 @@
+[
+  { "a": "https://buzz.blogger.com/feeds/posts/default", "b": "https://github.blog/feed/", "count": 10 },
+  { "a": "https://news.ycombinator.com/rss", "b": "https://jvns.ca/atom.xml", "count": 12 },
+  { "a": "https://news.ycombinator.com/rss", "b": "https://css-tricks.com/feed/", "count": 9 },
+  { "a": "https://jvns.ca/atom.xml", "b": "https://css-tricks.com/feed/", "count": 10 },
+  { "a": "https://www.smashingmagazine.com/feed/", "b": "https://hacks.mozilla.org/feed/", "count": 8 },
+  { "a": "https://theverge.com/rss/index.xml", "b": "https://feeds.arstechnica.com/arstechnica/index", "count": 14 },
+  { "a": "https://github.blog/feed/", "b": "https://blog.cloudflare.com/rss/", "count": 11 },
+  { "a": "https://news.ycombinator.com/rss", "b": "https://github.blog/feed/", "count": 15 },
+  { "a": "https://feeds.arstechnica.com/arstechnica/index", "b": "https://feeds.npr.org/1001/rss.xml", "count": 7 }
+]

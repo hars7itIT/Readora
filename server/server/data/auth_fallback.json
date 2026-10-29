@@ -1,0 +1,24 @@
+{
+  "users": {
+    "recover@reader.net": {
+      "_id": "usr_reset_test",
+      "email": "recover@reader.net",
+      "passwordHash": "scrypt:a322bfe606397d3843503e61eed9c26d:0dc939171d71ad4b86db543657b8d93dd6fb43e56655340d0b92085850b0e7c44719dc1c41e19d4f2aefccca461add80e983dc4cae1e8cb0d0ed7e8c2391e5ae",
+      "createdAt": "2026-10-29T23:33:48.285Z",
+      "updatedAt": "2026-10-29T23:33:48.371Z",
+      "syncEnabled": false
+    }
+  },
+  "sessions": {},
+  "passwordResets": {
+    "412d5520f77bfdbbf7b757b1a2d6e410a47c2f7f0d3dbd0c8291b1d03689a2cb": {
+      "_id": "412d5520f77bfdbbf7b757b1a2d6e410a47c2f7f0d3dbd0c8291b1d03689a2cb",
+      "token": "26ccf92f7d33eef2816006dcbecd339bc9a4aeb4e4ac6ba3273d92f063ab38b1",
+      "userId": "usr_reset_test",
+      "email": "recover@reader.net",
+      "expiresAt": "2026-10-30T00:33:48.288Z",
+      "used": true,
+      "createdAt": "2026-10-29T23:33:48.288Z"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "users": {
+    "demo@readora.com": {
+      "_id": "demo-user-id-readora",
+      "email": "demo@readora.com",
+      "passwordHash": "scrypt:a1b2c3d4e5f60718293a4b5c6d7e8f90:0b8bc7b1ba379d8c589d24cc66551e43d7fcd7354203726b32ad04aede492d3d1f1c7153dbfcbf83d5f4cb17d7c676cb19bdfb1a75efac4852c959e8975aa59d",
+      "name": "Demo Reader",
+      "createdAt": "2026-10-30T00:00:00.000Z",
+      "updatedAt": "2026-10-30T00:00:00.000Z",
+      "syncEnabled": true,
+      "syncedFeeds": [
+        "https://jvns.ca/atom.xml",
+        "https://css-tricks.com/feed/",
+        "https://code.blogger.com/feeds/posts/default"
+      ]
+    }
+  },
+  "sessions": {},
+  "passwordResets": {}
+}

@@ -1,0 +1,67 @@
+:root {
+  /* Editorial Palette from the reference screenshot */
+  --color-forest: #20452f;
+  --color-forest-deep: #143020;
+  --color-forest-hover: #2a583c;
+  --color-sage: #dfe8dc;
+  --color-sage-light: #edf3ec;
+  --color-sage-border: #cad8c7;
+  --color-ivory: #f8f9f5;
+  --color-ivory-light: #fcfdfb;
+  --color-surface: #ffffff;
+  --color-text-main: #19241b;
+  --color-text-secondary: #586556;
+  --color-text-muted: #839181;
+  --color-border: #e3e8df;
+  --color-border-subtle: #edf1ea;
+  --color-success: #478a5b;
+  --color-accent-orange: #df7e47;
+
+  /* Typography */
+  --font-serif: 'Playfair Display', 'Newsreader', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Plus Jakarta Sans', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'DM Mono', 'SFMono-Regular', Consolas, monospace;
+
+  /* Legacy aliases for backward compatibility */
+  --ink: var(--color-text-main);
+  --ink-secondary: var(--color-text-secondary);
+  --muted: var(--color-text-muted);
+  --line: var(--color-border);
+  --green: var(--color-forest);
+  --green-hover: var(--color-forest-hover);
+  --pale: var(--color-sage-light);
+  --paper: var(--color-ivory);
+  --card-bg: var(--color-surface);
+  --sidebar-bg: var(--color-ivory);
+  --sidebar-text: var(--color-text-main);
+  --sidebar-hover: var(--color-sage-light);
+
+  /* Radius */
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-subtle: 0 1px 3px rgba(20, 36, 24, 0.04);
+  --shadow-card: 0 2px 8px rgba(20, 36, 24, 0.04);
+  --shadow-card-hover: 0 6px 20px rgba(20, 36, 24, 0.08);
+  --shadow-panel: 0 8px 30px rgba(20, 36, 24, 0.07);
+
+  /* Layout dimensions */
+  --sidebar-width: 272px;
+  --sidebar-width-collapsed: 72px;
+  --topbar-height: 76px;
+
+  /* Spacing */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+}
